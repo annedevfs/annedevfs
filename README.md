@@ -13,7 +13,9 @@
 
   
 ## Stats
+<div align="center">
 <p>
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=annedevfs&show_icons=true&theme=highcontrast" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annedevfs&layout=compact&theme=highcontrast" />&nbsp;&nbsp;
 </p>
+</div>
