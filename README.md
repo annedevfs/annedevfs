@@ -1,16 +1,15 @@
-## Hi there 👋
+# Welcome <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnlxMHN1d2k1NGNxamJ0eWw5bG10ZmloNGs2NzlwczhibTZsMHF6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/48o6DuNvDewYLWsXyZ/giphy.gif" width="50">
 
-<!--
-**annedevfs/annedevfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am i ?
+<p>&nbsp&nbsp&nbsp&nbspI am an <strong>AI engineering student having a great background knowledge about web development</strong>. I'm currently immersed in learning technologies of machine learning and artificial intelligence. Also available to work on side projects. <strong>FEEL FREE TO CONTACT ME !!!</strong></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Stacks
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,html,css,javascript,flutter,figma,blender)](https://skillicons.dev)
+
+## Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annedevfs&layout=compact&theme=highcontrast)
+
+![anne's GitHub stats](https://github-readme-stats.vercel.app/api?username=annedevfs&show_icons=true&theme=highcontrast)
+
+
