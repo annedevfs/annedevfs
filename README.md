@@ -7,7 +7,7 @@
 ## My Stacks
 
 <div align="center">
-  
+  [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,html,css,javascript,flutter,figma,blender)](https://skillicons.dev)
 </div>
 
   
